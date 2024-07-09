@@ -1,0 +1,15 @@
+{
+    "name": "com.guinea.core.assets",
+    "version": "0.1.0",
+    "displayName": "Guinea Core Assets",
+    "description": "Guinea Core Assets Package",
+    "unity": "2022.3",
+    "dependencies": {
+      "com.unity.addressables": "1.19.19"
+    },
+    "keywords": [],
+    "author": {
+      "name": "GuineaPig"
+    }
+  }
+  
