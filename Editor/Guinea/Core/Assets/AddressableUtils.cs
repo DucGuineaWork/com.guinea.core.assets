@@ -8,7 +8,7 @@ using UnityEditor.AddressableAssets.Settings.GroupSchemas;
 using System.Xml.Serialization;
 using System.IO;
 
-namespace Guinea.Core
+namespace Guinea.Core.Assets
 {
     public static partial class AddressableUtils
     {
